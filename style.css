@@ -1,0 +1,28 @@
+body {
+    background-color: #ACDAFF;
+}
+
+h1 {
+    border: 2px dashed  #ffffff;
+	box-shadow: 0 0 0 8px #ff0030;
+    text-align: center;
+}
+
+p {
+    font-family: verdana;
+    font-size: 16px;
+}
+
+label {
+color: #B23400;
+font-weight: bold;
+display: block;
+width: 200px;
+float: left;
+}
+
+.floatRight{float:right;margin-left:20px; height: 200px; width: 200px;}
+
+} 
+
+.floatRightClear{float:right;clear:right;margin-left:20px; height: 200px; width: 200px;}
